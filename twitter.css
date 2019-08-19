@@ -1,0 +1,74 @@
+.body {
+     height: 500px;
+
+}
+.div1 {
+    background-color: dodgerblue;
+    background-image: url("images/bird.png");
+    width: 50%;
+    height: 400px;
+    float: left;
+    text-align: left; 
+    display: inline-block;
+    color: white;
+    padding: 54px;
+    background-repeat: no-repeat;
+}
+
+.info {
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+.div2 {
+    width: 50%;
+    height: 400px;
+    float: right;
+    display: inline-block;
+    padding: 80px; 
+    font-size: 24px;
+    line-height: .8;
+
+   
+}
+.paragraph1 {
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 55;
+    line-height: 20px;
+    font-weight: bold
+}
+
+.button-0 {
+ border-radius: 50px;
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+    background-color: dodgerblue;
+    color: white;
+}    
+.button-2 {
+    border-radius: 60px;
+    width: 400px;
+    height: 35px;
+    margin: 10px;
+    color: dodgerblue;
+    
+}
+.button {
+    width:80px;
+    float: right;
+    margin: 10px;
+    color: dodgerblue;
+    border-radius: 40px;
+}
+
+.footer {
+    display: inline-block;
+    font-size: 12px;
+    
+ }
+.footer ul li a{
+    color: gray;
+}
+

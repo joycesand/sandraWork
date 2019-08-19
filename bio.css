@@ -1,0 +1,28 @@
+.info{
+    width: 50%;
+    height: 50%;
+    padding-left: 20%;
+    padding-right: 20%;
+    border: 20px chocolate;
+    
+}
+.button {
+    display: inline-block;
+    height: 20px;
+    padding: 20px;
+}
+h2 {
+    color: deeppink;
+}
+th {
+    color: blueviolet;
+    height: 10px;
+    width: 10px;
+}
+
+h1 {
+    color: blue;
+    text-shadow: 3px 2px black;
+    
+
+}

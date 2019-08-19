@@ -1,0 +1,54 @@
+div { 
+    color: crimson;
+}
+.first { 
+    font-weight: bold; 
+}
+.done { 
+    text-decoration: line-through; 
+}
+
+p {
+    color: magenta; 
+  }
+  #Parent { background-color: cadetblue; }
+  #child-1 { background-color:purple; }
+  #child-2 { background-color: mediumseagreen; }
+  #child-3 { background-color: gold; }
+
+  ul li {
+      declearations;
+      font-weight:bold;
+      color: blue;
+  }
+   #logo{
+       width: 40px;
+       height: 40px;
+   }
+
+h1 {
+    text-shadow: 3px 2px aqua;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    font-size: 16px;
+}
+div {
+    font-size: 150%;
+    border: 1px solid black;
+}
+.myDIV {
+    display: none;
+}
+p {
+    display:inline-block;
+}
+p.exl {
+    border: 2px solid black;
+    padding: 35px 70px;
+}
+

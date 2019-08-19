@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+
+}
+
+.flex-box {
+    color: yellow;
+}
+
+ p {   width: 50px; } 
+ 
+ p {   width: 50%; } 
+ 
+ p {   width: 2em; 
+    box-shadow: 2px 2px 3px blue;
+}
+ 
